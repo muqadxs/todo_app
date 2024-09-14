@@ -2,13 +2,13 @@
 
 Todo App is a simple and efficient task management application built with Flutter. It focuses on the core functionalities needed to manage tasks effectively: adding and deleting to-dos. This app is ideal for users who need a straightforward tool to keep track of their tasks without unnecessary complexity.
 
-# Key Features:
+## Key Features:
 
 Add Tasks: Quickly add new tasks with a clean and intuitive interface.
 Delete Tasks: Easily remove tasks that are no longer needed.
 User-Friendly Design: A minimalist design that makes task management straightforward and efficient.
 
-# App Screenshots
+## App Screenshots
 
 
 
