@@ -6,11 +6,14 @@ Todo App is a simple and efficient task management application built with Flutte
 
 Add Tasks: Quickly add new tasks with a clean and intuitive interface.
 Delete Tasks: Easily remove tasks that are no longer needed.
+
 User-Friendly Design: A minimalist design that makes task management straightforward and efficient.
 
 ## App Screenshots
 
-
+![Screenshot (137)](https://github.com/user-attachments/assets/0632dffb-caa7-491b-a088-e7ec86e54000)
+![Screenshot (136)](https://github.com/user-attachments/assets/f2cddc1b-9f36-4b8e-aeee-267498b61cb9)
+![Screenshot (135)](https://github.com/user-attachments/assets/3266559f-58d9-499e-b240-f923391f5ca5)
 
 ## Getting Started
 
